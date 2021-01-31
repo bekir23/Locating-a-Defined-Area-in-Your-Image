@@ -4,10 +4,10 @@
 * This code return a image that show your 2 input side by side and point out cropped image that you want to find
 
 ## Prerequisites
-*Python 3.7 (lower versions also work correctly)
-*OpenCV
-*Numpy
-*Matplotlib
+* Python 3.7 (lower versions also work correctly)<br/>
+* OpenCV<br/>
+* Numpy<br/>
+* Matplotlib<br/>
 
 ## Run 
 * You can run the code like below in your command prompt:<br/>
